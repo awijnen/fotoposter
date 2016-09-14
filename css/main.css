@@ -102,7 +102,9 @@ textarea {
     align-items: center;
 }
 
-
+.mainContainer > .orderDialog {
+    width: 700px;
+}
 
 
 
